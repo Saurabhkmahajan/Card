@@ -1,0 +1,135 @@
+
+
+  const Data =[ //Array []-index 0  & {object}
+  {
+    imgsrc: "https://picsum.photos/id/237/200/300",
+    title: "This is Title 1",
+    sname: "Virat",
+    link: "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
+    country: "India",
+    city: "Pune",
+    contact: "565486344",
+    education: "B Tech",
+    zipcode: "425301",
+    idno: "ID-101",
+    laptop: "Lenovo"
+},
+{
+    imgsrc: "https://picsum.photos/id/870/200/300?grayscale&blur=2", 
+    title: "This is Title 2",
+    sname: "King",
+    link: "https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/black-panther-web.jpg",
+    country: "US",
+    city:"Akurdi",
+    contact: "565486344",
+    education: "B Tech",
+    zipcode: "425301",
+    idno: "ID-101",
+    laptop: "Asus"
+},
+  {
+    imgsrc: "https://picsum.photos/id/237/200/300",
+    title: "This is Title 3",
+    sname: "Alok",
+    link: "https://google.com",
+    country: "Srilanka",
+    city:"Nagar",
+    contact: "565486344",
+    education: "B Tech",
+    zipcode: "425301",
+    idno: "ID-101",
+    laptop: "Dell"
+   },
+   {
+    imgsrc: "https://picsum.photos/id/870/200/300?grayscale&blur=2",
+    title: "This is Title 4",
+    sname: "Root",
+    link: "https://yahoo.com",
+    country: "America",
+    city:"Baner",
+    contact: "565486344",
+    education: "B Tech",
+    zipcode: "425301",
+    idno: "ID-101",
+    laptop: "Acer"
+   },
+   {
+    imgsrc: "https://picsum.photos/200/300/?blur",
+    title: "This is Title 5",
+    sname: "Raina",
+    link: "https://gmail.com",
+    country: "London",
+    city:"Kolhapur",
+    contact: "565486344",
+    education: "B Tech",
+    zipcode: "425301",
+    idno: "ID-101",
+    laptop: "Lenovo"
+   },
+   {
+    imgsrc: "https://picsum.photos/id/237/200/300",
+    title: "This is Title 6",
+    sname: "Romain",
+    link: "https://youtube.com",
+    country: "England",
+    city:"Ahemedabad",
+    contact: "565486344",
+    education: "B Tech",
+    zipcode: "425301",
+    idno: "ID-101",
+    laptop: "Apple"
+   },
+   {
+    imgsrc: "https://picsum.photos/200/300/?blur",
+    title: "This is Title 7",
+    sname: "John",
+    link: "https://telegram.com",
+    country: "Australia",
+    city:"Mumbai",
+    contact: "565486344",
+    education: "B Tech",
+    zipcode: "425301",
+    idno: "ID-101",
+    laptop: "Acer"
+   },
+   {
+    imgsrc: "https://picsum.photos/seed/picsum/200/300",
+    title: "This is Title 8",
+    sname: "Kane",
+    link: "https://instagram.com",
+    country: "Newzealand",
+    city:"Surat",
+    contact: "564598554",
+    education: "B Tech",
+    zipcode: "425301",
+    idno: "ID-101",
+    laptop: "Asus"
+   },
+   {
+    imgsrc: "https://picsum.photos/seed/picsum/200/300",
+    title: "This is Title 9",
+    sname: "Cena",
+    link: "https://facebook.com",
+    country: "India",
+    city:"Jalgoan",
+    contact: "565486344",
+    education: "B Tech",
+    zipcode: "425301",
+    idno: "ID-101",
+    laptop: "Lenovo"
+   },
+   {
+    imgsrc: "https://picsum.photos/id/237/200/300",
+    title: "This is Title 10",
+    sname: "Guptil",
+    link: "https://gmail.com",
+    country: "Westindies",
+    city:"Pune",
+    contact: "523586344",
+    education: "B Tech",
+    zipcode: "425301",
+    idno: "ID-101",
+    laptop: "Apple"
+   }
+  ]
+   export default Data;
